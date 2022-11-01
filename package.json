@@ -1,5 +1,5 @@
 { 
-    "name": "dylux-fg",
+    "name": "ZENX1",
     "version": "2.1.9",
     "description": "Customizable WhatsApp Bot",
     "main": "index.js",
@@ -20,11 +20,11 @@
         "whatsapp",
         "js-whatsapp",
         "whatsapp",
-        "dylux-bot",
-        "dylux-bot-md",
+        "ZENX1-BOT",
+        "ZENX1-BOT",
         "multi-device",
         "MD",
-        "baileys-md"
+        "ZENX1-BOT"
     ],
     "homepage": "https://github.com/FG98F/dylux-fg",
     "author": {
